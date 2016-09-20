@@ -1,0 +1,5 @@
+[run]
+source = leonardo_horizon_dashboards
+omit =
+    *migrations*
+    leonardo_horizon_dashboards/__init__.py

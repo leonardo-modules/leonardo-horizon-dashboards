@@ -1,0 +1,5 @@
+include MANIFEST.in
+include README.rst
+recursive-include leonardo_horizon_dashboards/static *
+recursive-include leonardo_horizon_dashboards/locale *
+recursive-include leonardo_horizon_dashboards/templates *
